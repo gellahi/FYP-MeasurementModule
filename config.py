@@ -1,0 +1,3 @@
+CSV_FILE = "body_measurements.csv"
+CALIBRATION_FRAMES = 30
+MEASUREMENT_SAMPLES = 10
